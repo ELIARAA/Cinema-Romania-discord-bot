@@ -218,7 +218,7 @@ API-ul poate fi folosit independent în site-uri, aplicații, boți Discord și 
 - [Pagina oficială Cinema România Bot](https://vatadezahar.com/discord-bot-cinema)
 - [Cinema România API](https://vatadezahar.com/api/filme-cinema)
 - [Server Discord și suport](https://discord.gg/PFnFNPqN4Y)
-- [Termeni și condiții](https://vatadezahar.com/termeni-si-conditii)
+- [Termeni și condiții](https://vatadezahar.com/termeni-si-conditii-de-utilizare)
 - [Politica de confidențialitate](https://vatadezahar.com/politica-de-confidentialitate)
 
 ## Codul sursă
